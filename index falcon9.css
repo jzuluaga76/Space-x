@@ -1,0 +1,204 @@
+
+
+
+
+.space{
+
+    background-image: url("falcon9.png");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+    
+   
+
+}
+
+.img{
+
+    margin-bottom: 20px;
+}
+
+.c-menu{
+
+    margin: 0px 0px 0px 0px;
+}
+
+
+ul{
+    padding-left: 38vh;
+    margin: 10px 0px 0px 0px;
+}
+
+li{
+    margin: 0px 0px 0px 0px;
+
+}
+
+.a-manu{
+
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+
+    
+}
+
+.menu{
+
+    text-align: right;
+    float: right;
+    padding-right: 15vh;
+    padding-top: 0.2vh;
+    
+}
+
+
+.d-menu :hover{
+
+    color: white;
+
+
+}
+.b-manu{
+
+    color: white;
+    justify-content: right;
+    margin-bottom: 15px;
+    
+}
+
+
+
+
+nav{
+
+    text-align: left;
+    scroll-behavior: auto;
+
+
+    
+
+
+}
+
+li{
+
+    text-align: left;
+    list-style: none;
+    display: inline-block;
+    margin-top: 5vh;
+    
+
+    
+}
+
+.ship{
+
+    background-image: url("home_demo2.png");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 0vh;
+
+}
+
+
+
+.TEXTO-SPACE{
+    color: white;
+    padding-top: 20vh;
+    padding-left: 85vh;
+    font-size: 600%;
+}
+.TEXTO-SPACE-2{
+
+    color: white;
+    padding-left: 87vh;
+    font-size: 100%;
+}
+
+
+.btn{
+
+    margin-left: 40vh;
+    color: white;
+    border-color: white;
+    background: none;
+    padding: 10px 30px 10px 30px;
+    
+
+}
+
+.btn:hover{
+    color: black;
+    background: white;
+
+}
+
+.TEXTO-SPACE-3{
+
+    color: white;
+    padding-top: 39vh;
+    padding-left: 120vh;
+    margin-bottom: 0;
+    font-size: 300%;
+
+}
+
+.TEXTO-SPACE-4{
+
+    color: white;
+    padding-left: 120vh;
+    font-size: 300%;
+    margin-bottom: 0;
+
+}
+
+.TEXTO-SPACE-5{
+
+    color: white;
+    padding-left: 120vh;
+    font-size: 300%;
+    margin-bottom: 0;
+
+}
+.TEXTO-SPACE-6{
+
+    color: white;
+    padding-left: 120vh;
+    font-size: 300%;
+    margin-bottom: 0;
+
+}
+
+.TEXTO-SPACE-7{
+
+    color: white;
+    padding-left: 120vh;
+    font-size: 300%;
+    margin-bottom: 0;
+    margin-top: 0;
+
+}
+
+.btn-2{
+
+    margin-left: 120vh;
+    color: white;
+    border-color: white;
+    background: none;
+    padding: 10px 30px 10px 30px;
+    
+
+}
+
+.btn-2:hover{
+    color: black;
+    background: white;
+}
